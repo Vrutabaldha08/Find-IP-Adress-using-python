@@ -5,4 +5,5 @@ IP (Internet Protocol) Address is an address of your network hardware. An IP Add
 
 There are are two IP versions:  
                          * IPv4
-                         * IPv6.
+                         
+                         * IPv6
